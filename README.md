@@ -1,2 +1,2 @@
-# Bai tap lap trinh web 
+# Bai tap lap web 
 DỰ ÁN WEB VỚI GITHUB PAGE
